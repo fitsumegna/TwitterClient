@@ -120,7 +120,7 @@ public class TwitterLib {
 	}
 
 	/**
-	 * Counts the number of occurences of all the words and returns a hash map of each count
+	 * Counts the number of occurrences of all the words and returns a hash map of each count
 	 * 
 	 * @param texts
 	 * @param query
