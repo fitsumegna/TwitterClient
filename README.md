@@ -13,19 +13,19 @@ To run this program:
 This program expects a config file called config.json in proper JSON format.
 
 Example config.json;
->{
-> 	"query": "**detroit**",
->	"consumerkey": "CcF1oVnW6G9ukIXqSJ4JNQ",
->	"consumersecret": "RmaPWt2uYGUO8R0pZO8vjt9iZvsAowJhL9BD7IcbvU",
->	"token": "363467149-QM8EOTp00TLf0r9cLBVIKJXb6qBBp3H25DxXtU2i",
->	"tokensecret": "YtcYrYeSUgtLTMHZt1JiRhLIpcAai3v1qTiQVPwU" 	
->}
+	{
+ 		"query": "**detroit**",
+		"consumerkey": "CcF1oVnW6G9ukIXqSJ4JNQ",
+		"consumersecret": "RmaPWt2uYGUO8R0pZO8vjt9iZvsAowJhL9BD7IcbvU",
+		"token": "363467149-QM8EOTp00TLf0r9cLBVIKJXb6qBBp3H25DxXtU2i",
+		"tokensecret": "YtcYrYeSUgtLTMHZt1JiRhLIpcAai3v1qTiQVPwU" 	
+	}
 
 Libraries used: **argo-2.23.jar**, **commons-codec-1.6.jar**, **signpost-core-1.2.1.2.jar**
 
 -----
 
-## Details ## 
+## Details ##
 
 ### Design ###
 
